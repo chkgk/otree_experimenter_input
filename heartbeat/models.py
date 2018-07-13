@@ -26,4 +26,5 @@ class Group(BaseGroup):
 
 
 class Player(BasePlayer):
+    # add a model on the player to store the wristband start time
     wristband_start_time = models.IntegerField()

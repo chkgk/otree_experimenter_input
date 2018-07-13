@@ -61,5 +61,6 @@ SECRET_KEY = 'z-xd_^yvi@w*&wm5v4#pf19za7c((c&o5-m8(htrjm4@3ci9a&'
 # if an app is included in SESSION_CONFIGS, you don't need to list it here
 INSTALLED_APPS = ['otree']
 
+
 # additional url config
 ROOT_URLCONF = 'urls'
